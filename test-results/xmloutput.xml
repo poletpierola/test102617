@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Envysion Login tests " timestamp="2017-02-15T16:18:41" hostname="localhost" time="19.217" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Envysion Login tests " name="should show that I can login to Envysion site" time="19.214" />
+ </testsuite>
+ <testsuite name="Envysion Dashboard layout tests " timestamp="2017-02-15T16:19:00" hostname="localhost" time="23.265" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Envysion Dashboard layout tests " name="should show that I can click on each Dashboard item from Top Menu  " time="23.265" />
+ </testsuite>
+ <testsuite name="Envysion Dashboard functionality tests " timestamp="2017-02-15T16:19:23" hostname="localhost" time="0.221" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Envysion Dashboard functionality tests " name="should show that the items exist in repeater " time="0.221" />
+ </testsuite>
+ <testsuite name="Envysion Dashboard styles tests " timestamp="2017-02-15T16:19:24" hostname="localhost" time="0.553" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the class is there " time="0.228" />
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the border style is 0px " time="0.164" />
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the font-size is 10px " time="0.161" />
+ </testsuite>
+</testsuites>
