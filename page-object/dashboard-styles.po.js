@@ -12,6 +12,7 @@ var DashboardPage = function() {
     //this.colorDashboard = element(by.css('vjs-styles-defaults'));
     //this.colorDashboard = element(by.css('.widget-title ng-binding'));
     this.colorDashboard = element(by.css('.heading'));
+    this.colorGrid = element(by.css('.ng-isolate-scope'));
 
 //widget-title ng-binding
     //page-content

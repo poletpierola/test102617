@@ -4,7 +4,7 @@
 
 
 
-describe('Envysion Dashboard layout tests ',
+describe('Envysion Top Menu Tests  ',
 
     function() {
 
@@ -16,15 +16,13 @@ describe('Envysion Dashboard layout tests ',
 
             browser.sleep(1000);
 
-            element(by.id('dashboard')).click();
+            expect(element(by.id('dashboard')).click());
             //browser.sleep(1000);
             browser.waitForAngular();
 
-            element(by.css('a.ng-isolate-scope')).click();
+            expect(element(by.css('a.ng-isolate-scope')).click());
             //browser.sleep(1000);
             browser.waitForAngular();
-
-
 
             //element(by.css('intelligenceTab')).click();
             //element(by.id('clips')).click();

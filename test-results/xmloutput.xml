@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
- <testsuite name="Envysion Login tests " timestamp="2017-02-15T16:18:41" hostname="localhost" time="19.217" errors="0" tests="1" skipped="0" disabled="0" failures="0">
-  <testcase classname="Envysion Login tests " name="should show that I can login to Envysion site" time="19.214" />
+ <testsuite name="Envysion Login tests " timestamp="2017-02-17T18:14:36" hostname="localhost" time="22.274" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Envysion Login tests " name="should show that I can login to Envysion site" time="22.272" />
  </testsuite>
- <testsuite name="Envysion Dashboard layout tests " timestamp="2017-02-15T16:19:00" hostname="localhost" time="23.265" errors="0" tests="1" skipped="0" disabled="0" failures="0">
-  <testcase classname="Envysion Dashboard layout tests " name="should show that I can click on each Dashboard item from Top Menu  " time="23.265" />
+ <testsuite name="Envysion Top Menu Tests  " timestamp="2017-02-17T18:14:59" hostname="localhost" time="22.633" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Envysion Top Menu Tests  " name="should show that I can click on each Dashboard item from Top Menu  " time="22.633" />
  </testsuite>
- <testsuite name="Envysion Dashboard functionality tests " timestamp="2017-02-15T16:19:23" hostname="localhost" time="0.221" errors="0" tests="1" skipped="0" disabled="0" failures="0">
-  <testcase classname="Envysion Dashboard functionality tests " name="should show that the items exist in repeater " time="0.221" />
+ <testsuite name="Envysion Dashboard functionality tests " timestamp="2017-02-17T18:15:21" hostname="localhost" time="0.195" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Envysion Dashboard functionality tests " name="should show that the items exist in repeater " time="0.195" />
  </testsuite>
- <testsuite name="Envysion Dashboard styles tests " timestamp="2017-02-15T16:19:24" hostname="localhost" time="0.553" errors="0" tests="3" skipped="0" disabled="0" failures="0">
-  <testcase classname="Envysion Dashboard styles tests " name="should show that the class is there " time="0.228" />
-  <testcase classname="Envysion Dashboard styles tests " name="should show that the border style is 0px " time="0.164" />
-  <testcase classname="Envysion Dashboard styles tests " name="should show that the font-size is 10px " time="0.161" />
+ <testsuite name="Envysion Dashboard styles tests " timestamp="2017-02-17T18:15:21" hostname="localhost" time="5.512" errors="0" tests="11" skipped="0" disabled="0" failures="0">
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the class is there " time="0.308" />
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the border style is 0px " time="0.638" />
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the font-size is 10px " time="0.302" />
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the class is there" time="0.392" />
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the border width is 0px " time="0.318" />
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the color value is rgba(54, 171, 255, 1 " time="0.301" />
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the font value is Times New Roman " time="0.505" />
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the padding value is 0px " time="0.291" />
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the font size is 10px  " time="0.511" />
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the line height value is normal  " time="1.345" />
+  <testcase classname="Envysion Dashboard styles tests " name="should show that the line height value is normal  " time="0.601" />
  </testsuite>
 </testsuites>
